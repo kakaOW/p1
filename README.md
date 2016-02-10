@@ -5,11 +5,11 @@
 
 ## Description
 * System setup & Portfolio
-* Demostration of basic HTML/CSS skill.
-* Setup Git, Github, and ability to deploy to Digital Ocean.
+* Demonstration of basic HTML/CSS skill.
+* Demonstration of setting up Git and Github, and deploying to Digital Ocean.
 
 ## Demo
-<>
+<http://screencast.com/t/uCtUlGuUn1VS>
 
 ## Details for teaching team
 None.
